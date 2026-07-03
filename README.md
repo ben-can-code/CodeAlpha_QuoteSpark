@@ -33,7 +33,7 @@ QuoteSpark/
 └── README.md
 🚀 Installation and Setup
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/QuoteSpark.git
+git clone https://github.com/ben-can-code/CodeAlpha_QuoteSpark
 2️⃣ Navigate into the Project Folder
 cd QuoteSpark
 3️⃣ Install Dependencies
