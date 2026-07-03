@@ -10,6 +10,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#0f0c29"
     },
+    "updates": {
+      "enabled": false
+    },
     "platforms": [
       "ios",
       "android",
