@@ -11,7 +11,8 @@
       "backgroundColor": "#0f0c29"
     },
     "updates": {
-      "enabled": false
+      "enabled": false,
+      "url": "https://u.expo.dev/78672e53-56a4-45da-8a44-f5e67cb124f5"
     },
     "platforms": [
       "ios",
@@ -30,6 +31,13 @@
       "eas": {
         "projectId": "78672e53-56a4-45da-8a44-f5e67cb124f5"
       }
-    }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "ios": {},
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
