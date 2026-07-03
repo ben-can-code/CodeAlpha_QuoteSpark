@@ -4,19 +4,19 @@
     "slug": "quotespark",
     "version": "1.0.0",
     "orientation": "portrait",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
-    "sdkVersion": "54.0.0",
-    "extra": {
-      "eas": {
-        "projectId": "78672e53-56a4-45da-8a44-f5e67cb124f5"
-      }
+    "icon": "./spark.png",
+    "splash": {
+      "image": "./spark.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f0c29"
     },
+    "platforms": ["ios", "android", "web"],
+    "sdkVersion": "54.0.0",
     "android": {
-      "package": "com.benzmwash.quotespark"
+      "adaptiveIcon": {
+        "foregroundImage": "./spark.png",
+        "backgroundColor": "#0f0c29"
+      }
     }
   }
 }
