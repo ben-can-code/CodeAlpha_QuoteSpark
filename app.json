@@ -10,12 +10,22 @@
       "resizeMode": "contain",
       "backgroundColor": "#0f0c29"
     },
-    "platforms": ["ios", "android", "web"],
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "sdkVersion": "54.0.0",
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./spark.png",
         "backgroundColor": "#0f0c29"
+      },
+      "package": "com.benzmwash.quotespark"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "78672e53-56a4-45da-8a44-f5e67cb124f5"
       }
     }
   }
